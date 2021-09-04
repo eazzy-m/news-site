@@ -1,0 +1,5 @@
+mysite/settings.py
+venv/
+db.sqlite3
+django_cache/
+.gitingore

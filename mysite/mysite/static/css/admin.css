@@ -1,0 +1,16 @@
+#header{
+    background: #4a148c;
+}
+
+.module h2, .module caption, .inline-group{
+    background: #4a148c;
+
+}
+a.section:link, a.section:visited{
+    color: #f5dd5d
+}
+
+div.breadcrumbs{
+    background: #673ab7
+}
+
